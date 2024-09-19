@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(92, 121, 99);
+   
+}
+
+
+button{
+    padding: 10px 24px;
+    background-color: rgb(134, 156, 113);
+    display: block;
+    margin: auto;
+    color:#fff;
+    border: none;
+}
+
+#shrek{
+    display: block;
+    margin: auto;
+}
+
+.nomemaneiro{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700px;
+  font-style:normal;
+  font-size: 100px;
+  color: aliceblue;
+}
